@@ -1,0 +1,19 @@
+🚀 Project Showcase: Production-Ready Static Website CI/CD Pipeline
+
+As part of my DevOps journey, I recently built and deployed a production-style CI/CD pipeline for a containerized static website using GitHub Actions, Docker, Nginx, Docker Hub, and AWS EC2.
+
+This project gave me hands-on experience implementing core engineering practices:
+
+🔹 Continuous Integration (CI): Automated linting for HTML/CSS using HTMLHint and Stylelint to enforce code quality before builds.
+🔹 Security-First Containerization: Built optimized Docker images and integrated Trivy to scan for CRITICAL and HIGH vulnerabilities, blocking the pipeline if any exploits are found.
+🔹 Continuous Delivery (CD): Once verified, images are version-tagged (v1.x) and pushed to Docker Hub, replacing the unreliable latest tag pattern.
+🔹 Automated Deployment: Streamlined secure SSH deployment to an AWS EC2 instance, handling container lifecycles seamlessly.
+🔹 Post-Deployment Health Checks: Integrated automated curl validation scripts to verify application uptime instantly.
+
+💡 Key Takeaway: DevOps isn't just about stringing tools together—it's about creating reliable, repeatable, and automated guardrails that make software delivery safe and predictable. Every workflow built deepens my breakdown of Linux system administration, cloud infrastructure, and automation.
+
+I'm continuously building and refining my portfolio. I'd love to hear feedback or suggestions from fellow DevOps and Cloud professionals!
+
+Full workflow configuration details are documented in my repo. Let's connect! 👇
+
+#DevOps #CloudComputing #AWS #Docker #GitHubActions #CICD #Nginx #Linux #Automation #CloudEngineer #DevOpsEngineer #LearningInPublic

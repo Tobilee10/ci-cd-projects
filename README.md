@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚙️ GitHub Actions CI/CD Engine
 
 A centralized, production-grade repository of Continuous Integration and Continuous Deployment (CI/CD) pipelines engineered with GitHub Actions. This repository serves as a comprehensive DevOps portfolio, demonstrating enterprise-level automation, containerization strategies, DevSecOps infrastructure, and GitOps-driven cloud deployments.
@@ -126,3 +127,5 @@ github-actions-cicd-engine/
 ├── linux-log-backup-automation/
 ├── ... [other project directories]
 └── README.md
+=======
+>>>>>>> 7e96d5c (feat:implement automated linting and trivy security scanning pipeline)
